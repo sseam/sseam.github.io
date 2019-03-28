@@ -1,2 +1,2 @@
 # sseam.github.io
-blog
+Blog
