@@ -106,9 +106,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "SSEAM"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "쓰임새 있는 것들을 만들고 이야기 합니다."
   location         : "Somewhere"
   email            :
   links:
